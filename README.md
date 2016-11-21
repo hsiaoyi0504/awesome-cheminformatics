@@ -6,6 +6,19 @@ Awesome Cheminformatics[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d
 
 A curated list of awesome Cheminformatics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](CONTRIBUTING.md)!
 
+**Table of Contents**
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+- [Resources](#resources)
+  - [Blogs](#blogs)
+
+## Resources
+
+### Blogs
+
+* [steeveslab-blog](http://asteeves.github.io/) Some of example of use [RDKit](http://www.rdkit.org/)
+
 
 
 ## License

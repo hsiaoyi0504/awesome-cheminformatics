@@ -17,7 +17,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Blogs
 
-* [steeveslab-blog](http://asteeves.github.io/) Some of example of use [RDKit](http://www.rdkit.org/)
+* [steeveslab-blog](http://asteeves.github.io/) Some of examples using [RDKit](http://www.rdkit.org/)
 
 
 

@@ -17,6 +17,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Blogs
 
+* [The ChEMBL-og blog](http://chembl.blogspot.tw/)
+* [ChEMBL blog](http://chembl.github.io/)
 * [steeveslab-blog](http://asteeves.github.io/) Some of examples using [RDKit](http://www.rdkit.org/)
 * [Macs in Chemistry](http://www.macinchem.org/) Provide a resource for chemists using Apple Macintosh computers
 * Cheminformist: A series of japanese cheminformatics blog

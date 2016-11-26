@@ -11,11 +11,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 * [Softwares](#softwares)
   * [C++](#cpp)
-  * [Python](#python)
+  * [C#](#c-sharp)
   * [Java](#java)
-  * [R](#r)
   * [Perl](#perl)
-  
+  * [Python](#python)
+  * [R](#r)
 * [Resources](#resources)
   * [Courses](#courses)
   * [Blogs](#blogs)
@@ -29,20 +29,26 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### C++
 * [RDKit](http://www.rdkit.org/) - C++, Python packages
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
+* [Indigo](https://github.com/epam/Indigo) - C++ package, with Java, C#, and Python wrappers
+
+<a name="c-sharp" />
+### C#
+* [Indigo](https://github.com/epam/Indigo) - C++ package, with Java, C#, and Python wrappers
+
+### Java
+* [CDK](https://sourceforge.net/projects/cdk/) - Java package
+* [Indigo](https://github.com/epam/Indigo) - C++ package, with Java, C#, and Python wrappers
+
+### Perl
+* [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 
 ### Python
 * [RDKit](http://www.rdkit.org/) - C++, Python packages 
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
-
-### Java
-* [CDK](https://sourceforge.net/projects/cdk/) - Java package
+* [Indigo](https://github.com/epam/Indigo) - C++ package, with Java, C#, and Python wrappers
 
 ### R
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - R package
-
-
-### Perl
-* [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 
 
 ## Resources

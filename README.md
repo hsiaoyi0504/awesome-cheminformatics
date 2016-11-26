@@ -23,40 +23,40 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ## Softwares
 
 ### Command Line
-* [Open Babel](http://openbabel.org/wiki/Main_Page) A series of command-line tools, also includes C++, Perl, Python interfaces
+* [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 
 <a name="cpp" />
 ### C++
 * [RDKit](http://www.rdkit.org/) C++, Python packages
-* [Open Babel](http://openbabel.org/wiki/Main_Page) A series of command-line tools, also includes C++, Perl, Python interfaces
+* [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 
 ### Python
 * [RDKit](http://www.rdkit.org/) C++, Python packages 
-* [Open Babel](http://openbabel.org/wiki/Main_Page) A series of command-line tools, also includes C++, Perl, Python interfaces
+* [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 
 ### Java
-* [CDK](https://sourceforge.net/projects/cdk/) Java package
+* [CDK](https://sourceforge.net/projects/cdk/) - Java package
 
 ### R
-* [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) R package
+* [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - R package
 
 
 ### Perl
-* [Open Babel](http://openbabel.org/wiki/Main_Page) A series of command-line tools, also includes C++, Perl, Python interfaces
+* [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 
 
 ## Resources
 
 
 ## Courses
-* [Learncheminformatics.com](http://learncheminformatics.com/) Cheminformatics: Navigating the world of chemical data at Indiana University, run by professor David Wild
+* [Learncheminformatics.com](http://learncheminformatics.com/) - Cheminformatics: Navigating the world of chemical data at Indiana University, run by professor David Wild
 
 ## Blogs
 
 * [The ChEMBL-og blog](http://chembl.blogspot.tw/)
 * [ChEMBL blog](http://chembl.github.io/)
-* [steeveslab-blog](http://asteeves.github.io/) Some of examples using [RDKit](http://www.rdkit.org/)
-* [Macs in Chemistry](http://www.macinchem.org/) Provide a resource for chemists using Apple Macintosh computers
+* [steeveslab-blog](http://asteeves.github.io/) - Some of examples using [RDKit](http://www.rdkit.org/)
+* [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers
 * Cheminformist: A series of japanese cheminformatics blog
   * [Cheminformist1](http://cheminformist1.itmol.com/)
   * [Cheminformist2](http://cheminformist2.itmol.com/)

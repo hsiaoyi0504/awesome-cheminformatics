@@ -9,11 +9,26 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 **Table of Contents**
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+* [Softwares](#softwares)
+  * [General Purpose](#general)
+  
+* [Resources](#resources)
+  * [Courses](#courses)
+  * [Blogs](#blogs)
 
-- [Resources](#resources)
-  - [Blogs](#blogs)
+### Softwares
+
+## General Purpose
+* [RDKit](http://www.rdkit.org/) C++, Python packages 
+* [CDK](https://sourceforge.net/projects/cdk/) Java package
+* [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) R package
+* [Open Babel](http://openbabel.org/wiki/Main_Page) A series of command-line tools, also includes C++, Perl, Python interfaces
 
 ## Resources
+
+
+### Courses
+* [Learncheminformatics.com](http://learncheminformatics.com/) Cheminformatics: Navigating the world of chemical data at Indiana University, run by professor David Wild
 
 ### Blogs
 

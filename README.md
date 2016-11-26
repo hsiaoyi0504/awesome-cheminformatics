@@ -27,11 +27,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 <a name="cpp" />
 ### C++
-* [RDKit](http://www.rdkit.org/) C++, Python packages
+* [RDKit](http://www.rdkit.org/) - C++, Python packages
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 
 ### Python
-* [RDKit](http://www.rdkit.org/) C++, Python packages 
+* [RDKit](http://www.rdkit.org/) - C++, Python packages 
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 
 ### Java

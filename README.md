@@ -10,7 +10,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 * [Softwares](#softwares)
-  * [General Purpose](#general)
+  * [General Purpose](#general purpose)
   
 * [Resources](#resources)
   * [Courses](#courses)

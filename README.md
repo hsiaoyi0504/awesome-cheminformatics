@@ -10,11 +10,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 * [Softwares](#softwares)
-  * [C++]
-  * [Python]
-  * [Java]
-  * [R]
-  * [Perl]
+  * [C++](#cpp)
+  * [Python](#python)
+  * [Java](#java)
+  * [R](#r)
+  * [Perl](#perl)
   
 * [Resources](#resources)
   * [Courses](#courses)
@@ -25,6 +25,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Command Line
 * [Open Babel](http://openbabel.org/wiki/Main_Page) A series of command-line tools, also includes C++, Perl, Python interfaces
 
+<a name="cpp" />
 ### C++
 * [RDKit](http://www.rdkit.org/) C++, Python packages
 * [Open Babel](http://openbabel.org/wiki/Main_Page) A series of command-line tools, also includes C++, Perl, Python interfaces

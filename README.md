@@ -16,9 +16,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * [Courses](#courses)
   * [Blogs](#blogs)
 
-### Softwares
+## Softwares
 
-## General Purpose
+### General Purpose
 * [RDKit](http://www.rdkit.org/) C++, Python packages 
 * [CDK](https://sourceforge.net/projects/cdk/) Java package
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) R package
@@ -27,10 +27,10 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ## Resources
 
 
-### Courses
+## Courses
 * [Learncheminformatics.com](http://learncheminformatics.com/) Cheminformatics: Navigating the world of chemical data at Indiana University, run by professor David Wild
 
-### Blogs
+## Blogs
 
 * [The ChEMBL-og blog](http://chembl.blogspot.tw/)
 * [ChEMBL blog](http://chembl.github.io/)

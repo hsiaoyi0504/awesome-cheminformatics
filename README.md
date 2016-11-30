@@ -24,6 +24,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Command Line
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
+* [smina](https://sourceforge.net/projects/smina/) - A fork of AutoDock Vina that is customized to better support scoring function development and high-performance energy minimization. 
 
 <a name="cpp" />
 ### C++

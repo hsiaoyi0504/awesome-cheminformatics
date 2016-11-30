@@ -10,6 +10,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 * [Softwares](#softwares)
+  * [Stand Alone](#stand-alone)
+    * [General Purpose](#general-purpose)
+    * [Visualization](#visualization)
+    * [Docking](#docking)
+  * [Command Line](#command-line)
   * [C++](#cpp)
   * [C#](#c-sharp)
   * [Java](#java)
@@ -22,11 +27,26 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ## Softwares
 
+<a name="stand-alone"/>
+### Stand Alone
+
+<a name="general-purpose"/>
+#### General Purpose
+* [Chimera](https://www.cgl.ucsf.edu/chimera/) 
+
+#### Visulization
+* [PyMOL](https://www.pymol.org/)
+* [Jmol](http://jmol.sourceforge.net/)
+
+#### Docking
+* [AutoDock Vina](http://vina.scripps.edu/)
+
+<a name="command-line"/>
 ### Command Line
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 * [smina](https://sourceforge.net/projects/smina/) - A fork of AutoDock Vina that is customized to better support scoring function development and high-performance energy minimization. 
 
-<a name="cpp" />
+<a name="cpp"/>
 ### C++
 * [RDKit](http://www.rdkit.org/) - C++, Python packages
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces

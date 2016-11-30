@@ -37,9 +37,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 #### Visulization
 * [PyMOL](https://www.pymol.org/)
 * [Jmol](http://jmol.sourceforge.net/)
+* [VMD](http://www.ks.uiuc.edu/Research/vmd/) - A molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting.
 
 #### Docking
 * [AutoDock Vina](http://vina.scripps.edu/)
+
 
 <a name="command-line"/>
 ### Command Line

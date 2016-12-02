@@ -81,7 +81,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Learncheminformatics.com](http://learncheminformatics.com/) - Cheminformatics: Navigating the world of chemical data at Indiana University, run by professor David Wild
 
 ## Blogs
-
+* [PubChem Blog](https://pubchemblog.ncbi.nlm.nih.gov/)
 * [The ChEMBL-og blog](http://chembl.blogspot.tw/)
 * [ChEMBL blog](http://chembl.github.io/)
 * [steeveslab-blog](http://asteeves.github.io/) - Some of examples using [RDKit](http://www.rdkit.org/)

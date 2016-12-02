@@ -76,6 +76,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [PubChemPy](http://pubchempy.readthedocs.io) - Python wrapper for the PubChem PUG REST API
 * [ChemSpiPy](http://chemspipy.readthedocs.org) - Python wrapper for the ChemSpider API
 * [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the NCI Chemical Identifier Resolver (CIR)
+* [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - A tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 
 ### R
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - R package

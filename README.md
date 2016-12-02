@@ -18,6 +18,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * [C++](#cpp)
   * [C#](#c-sharp)
   * [Java](#java)
+  * [JavaScript](#javascript)
   * [Perl](#perl)
   * [Python](#python)
   * [R](#r)
@@ -62,6 +63,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [CDK](https://sourceforge.net/projects/cdk/) - Java package
 * [Indigo](https://github.com/epam/Indigo) - C++ package, with Java, C#, and Python wrappers
 
+### JavaScript
+* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) Kekule.js is an open source JavaScript library for chemoinformatics released under MIT license. Currently it is molecule-centric, focusing on providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
+
 ### Perl
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 
@@ -69,6 +73,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [RDKit](http://www.rdkit.org/) - C++, Python packages 
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 * [Indigo](https://github.com/epam/Indigo) - C++ package, with Java, C#, and Python wrappers
+* [PubChemPy](http://pubchempy.readthedocs.io) - Python wrapper for the PubChem PUG REST API
+* [ChemSpiPy](http://chemspipy.readthedocs.org) - Python wrapper for the ChemSpider API
+* [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the NCI Chemical Identifier Resolver (CIR)
 
 ### R
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - R package
@@ -81,9 +88,16 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Learncheminformatics.com](http://learncheminformatics.com/) - Cheminformatics: Navigating the world of chemical data at Indiana University, run by professor David Wild
 
 ## Blogs
+* [Open Source Molecular Modeling](https://opensourcemolecularmodeling.github.io/) - An updateable catalog of open source molecular modeling software.
 * [PubChem Blog](https://pubchemblog.ncbi.nlm.nih.gov/)
 * [The ChEMBL-og blog](http://chembl.blogspot.tw/)
 * [ChEMBL blog](http://chembl.github.io/)
+* [SteinBlog](http://www.steinbeck-molecular.de/steinblog/) - Blog of [Christoph Steinbeck](http://www.steinbeck-molecular.de/steinblog/index.php/about/), who is the head of cheminformatics and metabolism at the European Bioinformatics Institute (EBI) in Hinxton, Cambridge, UK.
+* [So much to do, so little time - Trying to squeeze sense out of chemical data](http://blog.rguha.net/) - Bolg of [Rajarshi Guha](http://blog.rguha.net/?page_id=8), who is a research scientist at NIH Center for Advancing Translational Science
+  * Some old blogs [1](https://rguha.wordpress.com/) [2](http://www.rguha.net/index.html)
+* [Noel O'Blog](http://baoilleach.blogspot.tw/) Blog of [Noel O'Boyle](http://www.redbrick.dcu.ie/~noel/), who is a cheminformatician and computational chemist interested in the prediction of physical, chemical or biological properties of small molecules. He is a Senior Software Engineer at NextMove Software in Cambridge, UK.
+* [chem-bla-ics](http://chem-bla-ics.blogspot.tw/) - Blog of [Egon Willighagen](http://egonw.github.io/), who is an assistant professor at the Department of Bioinformatics - BiGCaT of the NUTRIM research school at Maastricht University.
+* [Asad's Blog](https://chembioinfo.com/) - Bolg of [Syed Asad Rahman](https://chembioinfo.com/cv/), who is a research scientist in the [Thornton group](http://www.ebi.ac.uk/research/thornton) at EMBL-EBI.
 * [steeveslab-blog](http://asteeves.github.io/) - Some of examples using [RDKit](http://www.rdkit.org/)
 * [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers
 * Cheminformist: A series of japanese cheminformatics blog

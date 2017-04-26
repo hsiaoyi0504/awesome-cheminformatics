@@ -81,7 +81,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### R
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - R package
-
+* [Rcpi](https://bioconductor.org/packages/Rcpi) - R package
 
 ## Resources
 

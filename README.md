@@ -1,4 +1,6 @@
-Awesome Cheminformatics[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Cheminformatics
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ======================
 
 > Cheminformatics (also known as chemoinformatics, chemioinformatics and chemical informatics) is the use of computer and informational techniques applied to a range of problems in the field of chemistry.— [Wikipedia]
@@ -28,10 +30,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ## Softwares
 
-<a name="stand-alone"/>
 ### Stand Alone
 
-<a name="general-purpose"/>
 #### General Purpose
 * [Chimera](https://www.cgl.ucsf.edu/chimera/) 
 
@@ -44,18 +44,15 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [AutoDock Vina](http://vina.scripps.edu/)
 
 
-<a name="command-line"/>
 ### Command Line
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 * [smina](https://sourceforge.net/projects/smina/) - A fork of AutoDock Vina that is customized to better support scoring function development and high-performance energy minimization. 
 
-<a name="cpp"/>
 ### C++
 * [RDKit](http://www.rdkit.org/) - C++, Python packages
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces
 * [Indigo](https://github.com/epam/Indigo) - C++ package, with Java, C#, and Python wrappers
 
-<a name="c-sharp" />
 ### C#
 * [Indigo](https://github.com/epam/Indigo) - C++ package, with Java, C#, and Python wrappers
 

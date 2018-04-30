@@ -76,7 +76,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Beaker](https://github.com/chembl/chembl_beaker) - chembl_beaker package developed at ChEMBL group, EMBL-EBI, Cambridge, UK. A wrapper for [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/)
 * [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - A tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 * [mordred](https://github.com/mordred-descriptor/mordred) - A molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
-* [MolVS](Molecule Validation and Standardization) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
+* [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
 
 ### R
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - R package

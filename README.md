@@ -110,7 +110,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ## See Also
 
-* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) Another list focuses on python stuff related to Chemistry.
+* [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) Another list focuses on Python stuff related to Chemistry.
 
 ## License
 

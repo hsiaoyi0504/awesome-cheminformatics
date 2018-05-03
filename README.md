@@ -43,12 +43,14 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces.
 * [smina](https://sourceforge.net/projects/smina/) - A fork of AutoDock Vina that is customized to better support scoring function development and high-performance energy minimization.
 
-### C++
+<a id="cpp"></a>
+### C/C++
 
 * [RDKit](http://www.rdkit.org/) - A collection of cheminformatics and machine-learning software written in C++ and Python.
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces.
 * [Indigo](https://github.com/epam/Indigo) - A universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 
+<a id="c-sharp"></a>
 ### C#
 
 * [Indigo](https://github.com/epam/Indigo) - A universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.

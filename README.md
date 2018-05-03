@@ -6,92 +6,92 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ## Contents
 
-* [Softwares](#softwares)
-  * [Stand Alone](#stand-alone)
-  * [Command Line](#command-line)
-  * [C++](#cpp)
-  * [C#](#c-sharp)
-  * [Java](#java)
-  * [JavaScript](#javascript)
-  * [Perl](#perl)
-  * [Python](#python)
-  * [R](#r)
+* [Applications](#applications)
+  * [Visualization](#app-visualization)
+  * [Format Conversion](#app-format)
+  * [Docking](#app-docking)
+* [Libraries](#libearies)
+  * [General Purpose](#lib-general)
+  * [Visualization](#lib-visualization)
+  * [Format Checking](#lib-format)
+  * [Molecular Descriptors](#lib-des)
+  * [Machine Learning](#lib-ml)
+  * [Web APIs](#lib-web)
+  * [Molecular Dynamics](#lib-md)
 * [Resources](#resources)
   * [Courses](#courses)
   * [Blogs](#blogs)
 * [See Also](#see-also)
 * [License](#license)
 
-## Softwares
+## Applications
 
-### Stand Alone
+<a id="app-visualization"></a>
+### Visulization
 
-#### General Purpose
+* [PyMOL](https://sourceforge.net/projects/pymol/) - Python-enhanced molecular graphics tool.
+* [Jmol](http://jmol.sourceforge.net/) - Browser-based HTML5 viewer and stand-alone Java viewer for chemical structures in 3D.
+* [VMD](http://www.ks.uiuc.edu/Research/vmd/) - Molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting.
+* [Chimera](https://www.cgl.ucsf.edu/chimera/) - Highly extensible program for interactive molecular visualization and analysis.
+* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Kekule.js is an open source JavaScript library for chemoinformatics released under MIT license. Currently it is molecule-centric, focusing on providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 
-* [Chimera](https://www.cgl.ucsf.edu/chimera/) - A highly extensible program for interactive visualization and analysis of molecular structures and related data.
+<a id="app-format"></a>
+### Format Conversion
 
-#### Visulization
+* [Open Babel](http://openbabel.org/wiki/Main_Page) - Chemical toolbox designed to speak the many languages of chemical data.
 
-* [PyMOL](https://sourceforge.net/projects/pymol/) - A Python-enhanced molecular graphics tool.
-* [Jmol](http://jmol.sourceforge.net/) - An open-source browser-based HTML5 viewer and stand-alone Java viewer for chemical structures in 3D.
-* [VMD](http://www.ks.uiuc.edu/Research/vmd/) - A molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting.
+<a id="app-docking"></a>
+### Docking
 
-#### Docking
+* [AutoDock Vina](http://vina.scripps.edu/) - Molecular docking and virtual screening.
+* [smina](https://sourceforge.net/projects/smina/) - Customized [AutoDock Vina](http://vina.scripps.edu/) to better support scoring function development and high-performance energy minimization.
 
-* [AutoDock Vina](http://vina.scripps.edu/) - An open-source program for doing molecular docking.
+## Libraries
 
-### Command Line
+<a id="lib-general"></a>
+### General Purpose
 
-* [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces.
-* [smina](https://sourceforge.net/projects/smina/) - A fork of AutoDock Vina that is customized to better support scoring function development and high-performance energy minimization.
-
-<a id="cpp"></a>
-### C/C++
-
-* [RDKit](http://www.rdkit.org/) - A collection of cheminformatics and machine-learning software written in C++ and Python.
-* [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces.
-* [Indigo](https://github.com/epam/Indigo) - A universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
-* [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
-* [OpenMM](http://openmm.org/) - A high performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
-
-<a id="c-sharp"></a>
-### C#
-
-* [Indigo](https://github.com/epam/Indigo) - A universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
-
-### Java
-
+* [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
+* [Indigo](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 * [CDK](https://sourceforge.net/projects/cdk/) - An open-source library of algorithms for structural chemo- and bioinformatics, implemented in Java.
-* [Indigo](https://github.com/epam/Indigo) - A universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+* [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - A cheminformatics package for analyzing drug-like small molecule data in R.
 
-### JavaScript
+<a id="lib-format"></a>
+### Format Checking
+
+* [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - A tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
+* [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
+
+<a id="lib-visualization"></a>
+### Visulization
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Kekule.js is an open source JavaScript library for chemoinformatics released under MIT license. Currently it is molecule-centric, focusing on providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 
-### Perl
+<a id="lib-desc"></a>
+### Molecular Descriptors
 
-* [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces.
+* [mordred](https://github.com/mordred-descriptor/mordred) - A molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
+* [mol2vec](https://github.com/samoturk/mol2vec) - An unsupervised machine learning approach to learn vector representations of molecular substructures.
 
-### Python
+<a id="lib-ml"></a>
+### Machine Learning
 
-* [RDKit](http://www.rdkit.org/) - A collection of cheminformatics and machine-learning software written in C++ and Python.
-* [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces.
-* [Indigo](https://github.com/epam/Indigo) - A universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+* [DeepChem](https://github.com/deepchem/deepchem) - A Python library democratizing deep learning for Chemistry.
+
+<a id="lib-web"></a>
+### Web APIs
+
 * [PubChemPy](http://pubchempy.readthedocs.io) - Python wrapper for the PubChem PUG REST API.
 * [ChemSpiPy](http://chemspipy.readthedocs.org) - Python wrapper for the ChemSpider API.
 * [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the NCI Chemical Identifier Resolver (CIR).
 * [Beaker](https://github.com/chembl/chembl_beaker) - chembl_beaker package developed at ChEMBL group, EMBL-EBI, Cambridge, UK. A wrapper for [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/).
-* [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - A tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
-* [mordred](https://github.com/mordred-descriptor/mordred) - A molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
-* [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
+
+<a id="lib-md"></a>
+### Molecular Dynamics
+
+* [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - A high performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 * [MDTraj](https://github.com/mdtraj/mdtraj) - A modern, open library for the analysis of molecular dynamics trajectories.
-* [DeepChem](https://github.com/deepchem/deepchem) - A Python library democratizing deep learning for Chemistry.
-* [mol2vec](https://github.com/samoturk/mol2vec) - An unsupervised machine learning approach to learn vector representations of molecular substructures.
-
-### R
-
-* [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - A cheminformatics package for analyzing drug-like small molecule data in R.
 
 ## Resources
 
@@ -108,7 +108,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [SteinBlog](http://www.steinbeck-molecular.de/steinblog/) - Blog of [Christoph Steinbeck](http://www.steinbeck-molecular.de/steinblog/index.php/about/), who is the head of cheminformatics and metabolism at the European Bioinformatics Institute (EBI) in Hinxton, Cambridge, UK.
 * [So much to do, so little time - Trying to squeeze sense out of chemical data](http://blog.rguha.net/) - Bolg of [Rajarshi Guha](http://blog.rguha.net/?page_id=8), who is a research scientist at NIH Center for Advancing Translational Science.
   * Some old blogs [1](https://rguha.wordpress.com/) [2](http://www.rguha.net/index.html).
-* [Noel O'Blog](http://baoilleach.blogspot.tw/) Blog of [Noel O'Boyle](http://www.redbrick.dcu.ie/~noel/), who is a cheminformatician and computational chemist interested in the prediction of physical, chemical or biological properties of small molecules. He is a Senior Software Engineer at NextMove Software in Cambridge, UK.
+* [Noel O'Blog](http://baoilleach.blogspot.tw/) - Blog of [Noel O'Boyle](http://www.redbrick.dcu.ie/~noel/), who is a cheminformatician and computational chemist interested in the prediction of physical, chemical or biological properties of small molecules. He is a Senior Software Engineer at NextMove Software in Cambridge, UK.
 * [chem-bla-ics](http://chem-bla-ics.blogspot.tw/) - Blog of [Egon Willighagen](http://egonw.github.io/), who is an assistant professor at the Department of Bioinformatics - BiGCaT of the NUTRIM research school at Maastricht University.
 * [Asad's Blog](https://chembioinfo.com/) - Bolg of [Syed Asad Rahman](https://chembioinfo.com/cv/), who is a research scientist in the [Thornton group](http://www.ebi.ac.uk/research/thornton) at EMBL-EBI.
 * [steeveslab-blog](http://asteeves.github.io/) - Some of examples using [RDKit](http://www.rdkit.org/).

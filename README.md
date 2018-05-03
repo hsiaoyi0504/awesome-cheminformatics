@@ -66,7 +66,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### JavaScript
 
-* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) Kekule.js is an open source JavaScript library for chemoinformatics released under MIT license. Currently it is molecule-centric, focusing on providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
+* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Kekule.js is an open source JavaScript library for chemoinformatics released under MIT license. Currently it is molecule-centric, focusing on providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 
 ### Perl
 
@@ -74,7 +74,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Python
 
-* [RDKit](http://www.rdkit.org/) -  - A collection of cheminformatics and machine-learning software written in C++ and Python.
+* [RDKit](http://www.rdkit.org/) - A collection of cheminformatics and machine-learning software written in C++ and Python.
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces.
 * [Indigo](https://github.com/epam/Indigo) - A universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 * [PubChemPy](http://pubchempy.readthedocs.io) - Python wrapper for the PubChem PUG REST API.

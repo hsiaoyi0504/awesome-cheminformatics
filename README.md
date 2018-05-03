@@ -87,6 +87,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [OpenMM](http://openmm.org/) - A high performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 * [MDTraj](https://github.com/mdtraj/mdtraj) - A modern, open library for the analysis of molecular dynamics trajectories.
 * [DeepChem](https://github.com/deepchem/deepchem) - A Python library democratizing deep learning for Chemistry.
+* [mol2vec](https://github.com/samoturk/mol2vec) - An unsupervised machine learning approach to learn vector representations of molecular substructures.
 
 ### R
 

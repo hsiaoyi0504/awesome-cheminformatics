@@ -53,67 +53,68 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
 * [Indigo](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
-* [CDK](https://sourceforge.net/projects/cdk/) - An open-source library of algorithms for structural chemo- and bioinformatics, implemented in Java.
-* [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - A cheminformatics package for analyzing drug-like small molecule data in R.
+* [CDK](https://sourceforge.net/projects/cdk/) - Algorithms for structural chemo- and bioinformatics, implemented in Java.
+* [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
 
 <a id="lib-format"></a>
 ### Format Checking
 
-* [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - A tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
+* [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 * [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
 
 <a id="lib-visualization"></a>
 ### Visulization
 
-* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Kekule.js is an open source JavaScript library for chemoinformatics released under MIT license. Currently it is molecule-centric, focusing on providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
+* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 
 <a id="lib-desc"></a>
 ### Molecular Descriptors
 
-* [mordred](https://github.com/mordred-descriptor/mordred) - A molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
-* [mol2vec](https://github.com/samoturk/mol2vec) - An unsupervised machine learning approach to learn vector representations of molecular substructures.
+* [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
+* [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 
 <a id="lib-ml"></a>
 ### Machine Learning
 
-* [DeepChem](https://github.com/deepchem/deepchem) - A Python library democratizing deep learning for Chemistry.
+* [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry.
 
 <a id="lib-web"></a>
 ### Web APIs
 
+* [webchem](https://github.com/ropensci/webchem) - Chemical Information from the Web.
 * [PubChemPy](http://pubchempy.readthedocs.io) - Python wrapper for the PubChem PUG REST API.
 * [ChemSpiPy](http://chemspipy.readthedocs.org) - Python wrapper for the ChemSpider API.
 * [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the NCI Chemical Identifier Resolver (CIR).
-* [Beaker](https://github.com/chembl/chembl_beaker) - chembl_beaker package developed at ChEMBL group, EMBL-EBI, Cambridge, UK. A wrapper for [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/).
+* [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
 
 <a id="lib-md"></a>
 ### Molecular Dynamics
 
-* [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
-* [OpenMM](http://openmm.org/) - A high performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
-* [MDTraj](https://github.com/mdtraj/mdtraj) - A modern, open library for the analysis of molecular dynamics trajectories.
+* [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
+* [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
+* [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
 
 ## Resources
 
 ### Courses
 
-* [Learncheminformatics.com](http://learncheminformatics.com/) - Cheminformatics: Navigating the world of chemical data at Indiana University, run by professor David Wild.
+* [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
 
 ### Blogs
 
-* [Open Source Molecular Modeling](https://opensourcemolecularmodeling.github.io/) - An updateable catalog of open source molecular modeling software.
-* [PubChem Blog](https://pubchemblog.ncbi.nlm.nih.gov/)
-* [The ChEMBL-og blog](http://chembl.blogspot.tw/)
-* [ChEMBL blog](http://chembl.github.io/)
-* [SteinBlog](http://www.steinbeck-molecular.de/steinblog/) - Blog of [Christoph Steinbeck](http://www.steinbeck-molecular.de/steinblog/index.php/about/), who is the head of cheminformatics and metabolism at the European Bioinformatics Institute (EBI) in Hinxton, Cambridge, UK.
+* [Open Source Molecular Modeling](https://opensourcemolecularmodeling.github.io/) - Updateable catalog of open source molecular modeling software.
+* [PubChem Blog](https://pubchemblog.ncbi.nlm.nih.gov/) - News, updates and tutorials about [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
+* [The ChEMBL-og blog](http://chembl.blogspot.tw/) - Stories and news from Computational Chemical Biology Group at [EMBL-EBI](https://www.ebi.ac.uk/).
+* [ChEMBL blog](http://chembl.github.io/) - ChEMBL on GitHub.
+* [SteinBlog](http://www.steinbeck-molecular.de/steinblog/) - Blog of [Christoph Steinbeck](http://www.steinbeck-molecular.de/steinblog/index.php/about/), who is the head of cheminformatics and metabolism at the EMBL-EBI.
 * [So much to do, so little time - Trying to squeeze sense out of chemical data](http://blog.rguha.net/) - Bolg of [Rajarshi Guha](http://blog.rguha.net/?page_id=8), who is a research scientist at NIH Center for Advancing Translational Science.
   * Some old blogs [1](https://rguha.wordpress.com/) [2](http://www.rguha.net/index.html).
-* [Noel O'Blog](http://baoilleach.blogspot.tw/) - Blog of [Noel O'Boyle](http://www.redbrick.dcu.ie/~noel/), who is a cheminformatician and computational chemist interested in the prediction of physical, chemical or biological properties of small molecules. He is a Senior Software Engineer at NextMove Software in Cambridge, UK.
-* [chem-bla-ics](http://chem-bla-ics.blogspot.tw/) - Blog of [Egon Willighagen](http://egonw.github.io/), who is an assistant professor at the Department of Bioinformatics - BiGCaT of the NUTRIM research school at Maastricht University.
+* [Noel O'Blog](http://baoilleach.blogspot.tw/) - Blog of [Noel O'Boyle](http://www.redbrick.dcu.ie/~noel/), who is a Senior Software Engineer at NextMove Software.
+* [chem-bla-ics](http://chem-bla-ics.blogspot.tw/) - Blog of [Egon Willighagen](http://egonw.github.io/), who is an assistant professor at Maastricht University.
 * [Asad's Blog](https://chembioinfo.com/) - Bolg of [Syed Asad Rahman](https://chembioinfo.com/cv/), who is a research scientist in the [Thornton group](http://www.ebi.ac.uk/research/thornton) at EMBL-EBI.
-* [steeveslab-blog](http://asteeves.github.io/) - Some of examples using [RDKit](http://www.rdkit.org/).
+* [steeveslab-blog](http://asteeves.github.io/) - Some examples using [RDKit](http://www.rdkit.org/).
 * [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers.
-* Cheminformist - A series of japanese cheminformatics blog.
+* Cheminformist - Series of japanese cheminformatics blog.
   * [Cheminformist2](http://cheminformist2.itmol.com/)
   * [Cheminformist3](http://cheminformist.itmol.com/TEST/)
 

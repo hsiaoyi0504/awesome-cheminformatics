@@ -50,6 +50,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces.
 * [Indigo](https://github.com/epam/Indigo) - A universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 * [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
+* [OpenMM](http://openmm.org/) - A high performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 
 <a id="c-sharp"></a>
 ### C#
@@ -81,6 +82,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - A tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 * [mordred](https://github.com/mordred-descriptor/mordred) - A molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
 * [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
+* [OpenMM](http://openmm.org/) - A high performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 
 ### R
 

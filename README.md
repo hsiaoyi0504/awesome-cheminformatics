@@ -19,6 +19,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Resources](#resources)
   * [Courses](#courses)
   * [Blogs](#blogs)
+* [See Also](#see-also)
+* [License](#license)
 
 ## Softwares
 
@@ -92,11 +94,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ## Resources
 
-## Courses
+### Courses
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) - Cheminformatics: Navigating the world of chemical data at Indiana University, run by professor David Wild.
 
-## Blogs
+### Blogs
 
 * [Open Source Molecular Modeling](https://opensourcemolecularmodeling.github.io/) - An updateable catalog of open source molecular modeling software.
 * [PubChem Blog](https://pubchemblog.ncbi.nlm.nih.gov/)
@@ -114,6 +116,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * [Cheminformist2](http://cheminformist2.itmol.com/)
   * [Cheminformist3](http://cheminformist.itmol.com/TEST/)
 
+<a id="see-also"></a>
 ## See Also
 
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.

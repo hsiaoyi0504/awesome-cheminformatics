@@ -49,6 +49,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [RDKit](http://www.rdkit.org/) - A collection of cheminformatics and machine-learning software written in C++ and Python.
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - A series of command-line tools, also includes C++, Perl, Python interfaces.
 * [Indigo](https://github.com/epam/Indigo) - A universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
+* [Gromacs](http://www.gromacs.org/) - A molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 
 <a id="c-sharp"></a>
 ### C#

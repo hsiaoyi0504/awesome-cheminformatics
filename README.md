@@ -83,6 +83,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [mordred](https://github.com/mordred-descriptor/mordred) - A molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
 * [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
 * [OpenMM](http://openmm.org/) - A high performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
+* [MDTraj](https://github.com/mdtraj/mdtraj) - A modern, open library for the analysis of molecular dynamics trajectories.
 
 ### R
 

@@ -10,7 +10,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * [Visualization](#app-visualization)
   * [Format Conversion](#app-format)
   * [Docking](#app-docking)
-* [Libraries](#libearies)
+* [Libraries](#libraries)
   * [General Purpose](#lib-general)
   * [Visualization](#lib-visualization)
   * [Format Checking](#lib-format)

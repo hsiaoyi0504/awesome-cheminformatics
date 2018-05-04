@@ -93,6 +93,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 * [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
+* [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
 
 ## Resources
 

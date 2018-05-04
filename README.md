@@ -13,7 +13,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Libraries](#libraries)
   * [General Purpose](#lib-general)
   * [Visualization](#lib-visualization)
-  * [Format Checking](#lib-format)
+  * [Command Line Tools](#lib-format)
   * [Molecular Descriptors](#lib-des)
   * [Machine Learning](#lib-ml)
   * [Web APIs](#lib-web)

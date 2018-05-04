@@ -8,7 +8,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Applications](#applications)
   * [Visualization](#app-visualization)
-  * [Format Conversion](#app-format)
+  * [Format Conversion](#app-cmd)
   * [Docking](#app-docking)
 * [Libraries](#libraries)
   * [General Purpose](#lib-general)
@@ -33,12 +33,12 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Jmol](http://jmol.sourceforge.net/) - Browser-based HTML5 viewer and stand-alone Java viewer for chemical structures in 3D.
 * [VMD](http://www.ks.uiuc.edu/Research/vmd/) - Molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting.
 * [Chimera](https://www.cgl.ucsf.edu/chimera/) - Highly extensible program for interactive molecular visualization and analysis.
-* [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Kekule.js is an open source JavaScript library for chemoinformatics released under MIT license. Currently it is molecule-centric, focusing on providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 
-<a id="app-format"></a>
-### Format Conversion
+<a id="app-cmd"></a>
+### Command Line Tools
 
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - Chemical toolbox designed to speak the many languages of chemical data.
+* [MayaChemTools](http://www.mayachemtools.org/index.html) - Collection of Perl and Python scripts, modules, and classes that support day-to-day computational discovery needs.
 
 <a id="app-docking"></a>
 ### Docking

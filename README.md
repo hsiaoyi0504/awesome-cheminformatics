@@ -67,7 +67,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 
-<a id="lib-desc"></a>
+<a id="lib-des"></a>
 ### Molecular Descriptors
 
 * [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).

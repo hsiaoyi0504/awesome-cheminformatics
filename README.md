@@ -22,6 +22,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Resources](#resources)
   * [Courses](#courses)
   * [Blogs](#blogs)
+  * [Books](#books)
 * [See Also](#see-also)
 * [License](#license)
 
@@ -125,6 +126,10 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * Cheminformist - Series of japanese cheminformatics blog.
   * [Cheminformist2](http://cheminformist2.itmol.com/)
   * [Cheminformist3](http://cheminformist.itmol.com/TEST/)
+
+### Books
+
+* [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC)
 
 <a id="see-also"></a>
 ## See Also

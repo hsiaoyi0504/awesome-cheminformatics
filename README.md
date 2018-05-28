@@ -129,7 +129,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Books
 
-* [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC)
+* [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -  Include insights from public (NIH), academic, and industrial sources at the same time.
 
 <a id="see-also"></a>
 ## See Also

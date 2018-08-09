@@ -130,6 +130,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Books
 
 * [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -  Include insights from public (NIH), academic, and industrial sources at the same time.
+* [Chemoinformatics for Drug Discovery](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785) - Materials about how to use Chemoinformatics strategies to improve drug discovery results.
 
 <a id="see-also"></a>
 ## See Also

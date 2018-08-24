@@ -116,6 +116,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [The ChEMBL-og blog](http://chembl.blogspot.tw/) - Stories and news from Computational Chemical Biology Group at [EMBL-EBI](https://www.ebi.ac.uk/).
 * [ChEMBL blog](http://chembl.github.io/) - ChEMBL on GitHub.
 * [SteinBlog](http://www.steinbeck-molecular.de/steinblog/) - Blog of [Christoph Steinbeck](http://www.steinbeck-molecular.de/steinblog/index.php/about/), who is the head of cheminformatics and metabolism at the EMBL-EBI.
+* [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - Blog with in-depth examples of practical application of cheminformatics.
 * [So much to do, so little time - Trying to squeeze sense out of chemical data](http://blog.rguha.net/) - Bolg of [Rajarshi Guha](http://blog.rguha.net/?page_id=8), who is a research scientist at NIH Center for Advancing Translational Science.
   * Some old blogs [1](https://rguha.wordpress.com/) [2](http://www.rguha.net/index.html).
 * [Noel O'Blog](http://baoilleach.blogspot.tw/) - Blog of [Noel O'Boyle](http://www.redbrick.dcu.ie/~noel/), who is a Senior Software Engineer at NextMove Software.

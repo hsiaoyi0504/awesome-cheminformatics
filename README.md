@@ -69,6 +69,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
+* [](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
 
 <a id="lib-des"></a>
 ### Molecular Descriptors

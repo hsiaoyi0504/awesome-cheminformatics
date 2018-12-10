@@ -19,6 +19,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * [Web APIs](#lib-web)
   * [Databases](#lib-db)
   * [Molecular Dynamics](#lib-md)
+* [Journals](#journals)
 * [Resources](#resources)
   * [Courses](#courses)
   * [Blogs](#blogs)
@@ -103,6 +104,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 * [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
 * [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
+
+## Journals
+
+* [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
+* [Journal of Chemical Information and Modeling (ACS Publications)](https://pubs.acs.org/journal/jcisd8)
 
 ## Resources
 

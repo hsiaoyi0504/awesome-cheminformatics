@@ -70,13 +70,14 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
-* [](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
+* [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
 
 <a id="lib-des"></a>
 ### Molecular Descriptors
 
 * [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
 * [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
+* [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - a tool to align molecules according their pharmacophores
 
 <a id="lib-ml"></a>
 ### Machine Learning

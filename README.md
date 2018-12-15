@@ -116,6 +116,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Courses
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
+* [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) - A youtube channel for cheminformatics education.
 
 ### Blogs
 

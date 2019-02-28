@@ -76,7 +76,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
 * [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
-* [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - a tool to align molecules according their pharmacophores
+* [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
 
 <a id="lib-ml"></a>
 ### Machine Learning
@@ -115,7 +115,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Courses
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
-* [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) - A youtube channel for cheminformatics education.
+* [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) - A YouTube channel for cheminformatics education.
 
 ### Blogs
 
@@ -141,7 +141,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="see-also"></a>
 ## See Also
 
-* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo
+* [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo.
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
 
 ## License

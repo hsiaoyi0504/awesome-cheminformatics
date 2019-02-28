@@ -1,4 +1,4 @@
-# Awesome Cheminformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Cheminformatics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > Cheminformatics (also known as chemoinformatics, chemioinformatics and chemical informatics) is the use of computer and informational techniques applied to a range of problems in the field of chemistry.— [Wikipedia](https://en.wikipedia.org/wiki/Cheminformatics)
 
@@ -25,12 +25,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * [Blogs](#blogs)
   * [Books](#books)
 * [See Also](#see-also)
-* [License](#license)
 
 ## Applications
 
 <a id="app-visualization"></a>
-### Visulization
+### Visualization
 
 * [PyMOL](https://sourceforge.net/projects/pymol/) - Python-enhanced molecular graphics tool.
 * [Jmol](http://jmol.sourceforge.net/) - Browser-based HTML5 viewer and stand-alone Java viewer for chemical structures in 3D.
@@ -120,7 +119,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 ### Blogs
 
-* [Open Source Molecular Modeling](https://opensourcemolecularmodeling.github.io/) - Updateable catalog of open source molecular modeling software.
+* [Open Source Molecular Modeling](https://opensourcemolecularmodeling.github.io/README.html) - Updateable catalog of open source molecular modeling software.
 * [PubChem Blog](https://pubchemblog.ncbi.nlm.nih.gov/) - News, updates and tutorials about [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
 * [The ChEMBL-og blog](http://chembl.blogspot.tw/) - Stories and news from Computational Chemical Biology Group at [EMBL-EBI](https://www.ebi.ac.uk/).
 * [ChEMBL blog](http://chembl.github.io/) - ChEMBL on GitHub.
@@ -128,14 +127,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Practical Cheminformatics](http://practicalcheminformatics.blogspot.com/) - Blog with in-depth examples of practical application of cheminformatics.
 * [So much to do, so little time - Trying to squeeze sense out of chemical data](http://blog.rguha.net/) - Bolg of [Rajarshi Guha](http://blog.rguha.net/?page_id=8), who is a research scientist at NIH Center for Advancing Translational Science.
   * Some old blogs [1](https://rguha.wordpress.com/) [2](http://www.rguha.net/index.html).
-* [Noel O'Blog](http://baoilleach.blogspot.tw/) - Blog of [Noel O'Boyle](http://www.redbrick.dcu.ie/~noel/), who is a Senior Software Engineer at NextMove Software.
+* [Noel O'Blog](http://baoilleach.blogspot.tw/) - Blog of [Noel O'Boyle](https://www.redbrick.dcu.ie/~noel/), who is a Senior Software Engineer at NextMove Software.
 * [chem-bla-ics](http://chem-bla-ics.blogspot.tw/) - Blog of [Egon Willighagen](http://egonw.github.io/), who is an assistant professor at Maastricht University.
-* [Asad's Blog](https://chembioinfo.com/) - Bolg of [Syed Asad Rahman](https://chembioinfo.com/cv/), who is a research scientist in the [Thornton group](http://www.ebi.ac.uk/research/thornton) at EMBL-EBI.
+* [Asad's Blog](https://chembioinfo.com/) - Bolg of Syed Asad Rahman, who is a research scientist in the [Thornton group](http://www.ebi.ac.uk/research/thornton) at EMBL-EBI.
 * [steeveslab-blog](http://asteeves.github.io/) - Some examples using [RDKit](http://www.rdkit.org/).
 * [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers.
-* Cheminformist - Series of japanese cheminformatics blog.
-  * [Cheminformist2](http://cheminformist2.itmol.com/)
-  * [Cheminformist3](http://cheminformist.itmol.com/TEST/)
 
 ### Books
 

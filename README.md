@@ -31,10 +31,14 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="app-visualization"></a>
 ### Visualization
 
-* [PyMOL](https://sourceforge.net/projects/pymol/) - Python-enhanced molecular graphics tool.
+#### 3D-Visulization
+* [PyMOL](https://sourceforge.net/projects/pymol/) - Python-enhanced molecular graphics tool. :book: :credit_card:
 * [Jmol](http://jmol.sourceforge.net/) - Browser-based HTML5 viewer and stand-alone Java viewer for chemical structures in 3D.
 * [VMD](http://www.ks.uiuc.edu/Research/vmd/) - Molecular visualization program for displaying, animating, and analyzing large biomolecular systems using 3-D graphics and built-in scripting.
-* [Chimera](https://www.cgl.ucsf.edu/chimera/) - Highly extensible program for interactive molecular visualization and analysis.
+* [UCSF Chimera](https://www.cgl.ucsf.edu/chimera/) - Highly extensible program for interactive molecular visualization and analysis.
+#### 2D-Visulization
+* [JSME](https://www.peter-ertl.com/jsme/) - JSME is a free molecule editor written in JavaScript. JSME is a direct successor of the JME Molecule Editor applet. 
+* [ChemDoddle](https://www.chemdoodle.com/)
 
 <a id="app-cmd"></a>
 ### Command Line Tools
@@ -47,6 +51,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [AutoDock Vina](http://vina.scripps.edu/) - Molecular docking and virtual screening.
 * [smina](https://sourceforge.net/projects/smina/) - Customized [AutoDock Vina](http://vina.scripps.edu/) to better support scoring function development and high-performance energy minimization.
+* [rDock]
 
 ## Libraries
 
@@ -77,6 +82,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
 * [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 * [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
+* [PaDEL-Descriptor](http://www.yapcwsoft.com/dd/padeldescriptor/) - A software to calculate molecular descriptors and fingerprints. The software currently calculates 1875 descriptors (1444 1D, 2D descriptors and 431 3D descriptors) and 12 types of fingerprints (total 16092 bits).
 
 <a id="lib-ml"></a>
 ### Machine Learning
@@ -116,6 +122,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
 * [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) - A YouTube channel for cheminformatics education.
+* [CH485-Artificial-Intelligence-and-Chemistry](https://github.com/Birdlet/CH485---Artificial-Intelligence-and-Chemistry) - Course material for __Artificial Intelligence and Chemistry__ of Korea Advanced Institute of Science and Technology (KAIST), taught by Dr. Woo Youn Kim, TA: Seongok Ryu
 
 ### Blogs
 
@@ -132,11 +139,13 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Asad's Blog](https://chembioinfo.com/) - Bolg of Syed Asad Rahman, who is a research scientist in the [Thornton group](http://www.ebi.ac.uk/research/thornton) at EMBL-EBI.
 * [steeveslab-blog](http://asteeves.github.io/) - Some examples using [RDKit](http://www.rdkit.org/).
 * [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers.
+* [Is Life Worth Living](https://iwatobipen.wordpress.com) - iwatobipen is a medicinal chemist in mid-size pharmaceutical company in Japan. He loves cheminformatics and posted lots of chemoinformatical blogs
 
 ### Books
 
 * [Computational Approaches in Cheminformatics and Bioinformatics](https://books.google.com/books/about/Computational_Approaches_in_Cheminformat.html?id=bLqV4rYQoYsC) -  Include insights from public (NIH), academic, and industrial sources at the same time.
 * [Chemoinformatics for Drug Discovery](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118742785) - Materials about how to use Chemoinformatics strategies to improve drug discovery results.
+* [Handbook of Chemoinformatics: From Data to Knowledge in 4 Volumes](https://onlinelibrary.wiley.com/doi/book/10.1002/9783527618279) - Many detials for cheminformatics descriptors and algorithm. RDkit cited this abook alot
 
 <a id="see-also"></a>
 ## See Also

@@ -162,6 +162,8 @@ __tags:__
 * [PDBFixer](https://github.com/pandegroup/pdbfixer) - PDBFixer is an easy to use application for fixing problems in Protein Data Bank files in preparation for simulating them. :book:
 * [Biopython](https://biopython.org/) - Biopython is a set of freely available tools for biological computation written in Python by an international team of developers. :book:
 * [ODDT](https://github.com/oddt/oddt) - Open Drug Discovery Toolkit (ODDT) is modular and comprehensive toolkit for use in cheminformatics, molecular modeling etc. ODDT is written in Python, and make extensive use of Numpy/Scipy. :book:
+* [ProDy](http://prody.csb.pitt.edu) - ProDy is a free and open-source Python package for protein structural dynamics analysis, especially Elastic Network Model. :book:
+* [Bio3D](thegrantlab.org/bio3d/index.php) - Bio3D is an R package containing utilities for the analysis of protein structure, sequence and trajectory data. :book:
 
 ## Journals
 

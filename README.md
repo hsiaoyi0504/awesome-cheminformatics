@@ -78,6 +78,8 @@ __tags:__
 
 * [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises. Github [address](https://github.com/flatkinson/standardiser). :book:
 * [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/). :book:
+* [rd_filters](https://github.com/PatWalters/rd_filters) - This script provides a simple means of applying the functional group filters from the ChEMBL database, as well as a number of property filters from the RDKit, to a set of compounds. :book:
+
 
 <a id="des"></a>
 
@@ -93,8 +95,14 @@ __tags:__
 ### Machine Learning
 
 * [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry. :book:
-
-
+* [Tensor-Mol](https://github.com/jparkhill/TensorMol) - Tensor-Mol is a neural net work model to do moleuclar dynamics and energy estimation. :book:
+* [keras-moelcules](https://github.com/maxhodak/keras-molecules) - A Keras implementation of Aspuru-Guzik's molecular autoencoder paper. :book:
+* [molecular-autoencoder](https://github.com/HIPS/molecule-autoencoder) - Automatic chemical design using a data-driven continuous representation of molecules. [arxiv.org](https://arxiv.org/abs/1610.02415). :book:
+* [SMILES-enumeration](https://github.com/EBjerrum/SMILES-enumeration) - SMILES enumeration is the process of writing out all possible SMILES forms of a molecule. It's a useful technique for data augmentation before sequence based modeling of molecules. [arxiv.org](https://arxiv.org/abs/1703.07076). :book:
+* [grammar-VAE](https://github.com/mkusner/grammarVAE) - Code for the "Grammar Variational Autoencoder" [arxiv.org](https://arxiv.org/abs/1703.01925). :book:
+* [ChemTS](https://github.com/tsudalab/ChemTS) - Molecule Design using Monte Carlo Tree Search with Neural Rollout. ChemTS can design novel molecules with desired properties(such as, HOMO-LUMO gap, energy, logp..). Combining with rDock, ChemTS can design molecules active to target proteins. [arxiv.org](https://arxiv.org/abs/1710.00616). :book:
+* [reLeaSE](https://github.com/isayev/ReLeaSE) - Deep Reinforcement Learning for de-novo Drug Design. [arxiv.org](http://dx.doi.org/10.1126/sciadv.aap7885). :book:
+* [chemprop](https://github.com/swansonk14/chemprop) - This repository contains message passing neural networks for molecular property prediction. :book:
 
 <a id="db"></a>
 
@@ -176,7 +184,9 @@ __tags:__
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
 * [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) - A YouTube channel for cheminformatics education.
-* [CH485-Artificial-Intelligence-and-Chemistry](https://github.com/Birdlet/CH485---Artificial-Intelligence-and-Chemistry) - Course material for __Artificial Intelligence and Chemistry__ of Korea Advanced Institute of Science and Technology (KAIST), taught by Dr. Woo Youn Kim, TA: Seongok Ryu
+* [CH485-Artificial-Intelligence-and-Chemistry](https://github.com/Birdlet/CH485---Artificial-Intelligence-and-Chemistry) - Course material for Artificial Intelligence and Chemistry of Korea Advanced Institute of Science and Technology (KAIST).
+[CHEM430-SIMULATION IN CHEMISTRY & BIOCHEMISTRY](https://dasher.wustl.edu/chem430/) - IMULATION IN CHEMISTRY & BIOCHEMISTRY by Department of Chemistry at Washington University.
+[CHEM478-MOLECULAR MODELING](https://dasher.wustl.edu/chem430/) - MOLECULAR MODELING by Department of Chemistry at Washington University.
 
 ### Blogs
 

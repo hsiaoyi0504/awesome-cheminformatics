@@ -82,6 +82,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Machine Learning
 
 * [DeepChem](https://github.com/deepchem/deepchem) - Democratizing deep learning for Chemistry.
+* [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 
 <a id="lib-web"></a>
 ### Web APIs

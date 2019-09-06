@@ -118,6 +118,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
 * [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) - A YouTube channel for cheminformatics education.
+* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
 
 ### Blogs
 

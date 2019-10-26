@@ -137,6 +137,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [steeveslab-blog](http://asteeves.github.io/) - Some examples using [RDKit](http://www.rdkit.org/).
 * [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) - Blog of [Andreas Bender](http://www.andreasbender.de/), who is a Reader for Molecular Informatics at University of Cambridge.
+* [Is life worth living?](https://iwatobipen.wordpress.com/) - Some examples for cheminformatics libraries.
 
 ### Books
 

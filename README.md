@@ -139,6 +139,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) - Blog of [Andreas Bender](http://www.andreasbender.de/), who is a Reader for Molecular Informatics at University of Cambridge.
 * [Is life worth living?](https://iwatobipen.wordpress.com/) - Some examples for cheminformatics libraries.
+* [Cheminformatics 2.0](https://cheminf20.org/) - Blog of [Alex M. Clark](https://twitter.com/aclarkxyz), who is a research scientist at Collaborative Drug Discovery.
 
 ### Books
 

@@ -10,6 +10,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * [Visualization](#app-visualization)
   * [Command Line Tools](#app-cmd)
   * [Docking](#app-docking)
+  * [Virtual Machine](#app-virtual)
 * [Libraries](#libraries)
   * [General Purpose](#lib-general)
   * [Visualization](#lib-visualization)
@@ -49,6 +50,12 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [AutoDock Vina](http://vina.scripps.edu/) - Molecular docking and virtual screening.
 * [smina](https://sourceforge.net/projects/smina/) - Customized [AutoDock Vina](http://vina.scripps.edu/) to better support scoring function development and high-performance energy minimization.
+
+<a id="app-virtual"></a>
+### Virtual Machine
+
+* [myChEMBL](http://chembl.blogspot.com/2015/07/mychembl-20-has-landed.html) - 
+* [3D e-Chem Virtual Machine](https://github.com/3D-e-Chem/3D-e-Chem-VM) - 
 
 ## Libraries
 

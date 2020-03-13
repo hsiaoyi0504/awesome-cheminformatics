@@ -55,7 +55,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="app-virtual"></a>
 ### Virtual Machine
 
-* [myChEMBL](http://chembl.blogspot.com/2015/07/mychembl-20-has-landed.html) - 
+* [myChEMBL](http://chembl.blogspot.com/2015/07/mychembl-20-has-landed.html) - A version of ChEMBL built using Open Source software (Ubuntu, PostgreSQL, RDKit)
 * [3D e-Chem Virtual Machine](https://github.com/3D-e-Chem/3D-e-Chem-VM) - 
 
 ## Libraries

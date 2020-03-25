@@ -83,7 +83,6 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
 * [nglviewer](http://nglviewer.org/nglview/latest/) - Interactive molecular graphics for Jupyter notebooks.
-* [notebook-molecular-visualization](https://github.com/Autodesk/notebook-molecular-visualization) - 2D and 3D molecular visualization in Jupyter notebooks using 3DMol.js and D3.js 
 
 <a id="lib-des"></a>
 ### Molecular Descriptors

@@ -20,6 +20,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * [Web APIs](#lib-web)
   * [Databases](#lib-db)
   * [Molecular Dynamics](#lib-md)
+  * [Others](#lib-others)
 * [Journals](#journals)
 * [Resources](#resources)
   * [Courses](#courses)
@@ -121,6 +122,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
 * [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
 
+<a id="lib-others"></a>
+### Others
+
+* [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
+
 ## Journals
 
 * [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)
@@ -168,6 +174,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo.
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
+* [MolSSI Molecular Software Database](https://molssi.org/software-search/)
 
 ## License
 

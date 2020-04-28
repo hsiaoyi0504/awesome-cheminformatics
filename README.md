@@ -125,6 +125,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-others"></a>
 ### Others
 
+* [OPSIN](https://bitbucket.org/dan2097/opsin/downloads/) - Open Parser for Systematic IUPAC nomenclature
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
 
 ## Journals

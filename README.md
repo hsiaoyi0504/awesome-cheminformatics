@@ -183,6 +183,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [deeplearning-biology](https://github.com/hussius/deeplearning-biology#chemoinformatics-and-drug-discovery-) - Chemoinformatics and drug discovery section in deeplearning-biology repo.
 * [awesome-python-chemistry](https://github.com/lmmentel/awesome-python-chemistry) - Another list focuses on Python stuff related to Chemistry.
 * [MolSSI Molecular Software Database](https://molssi.org/software-search/)
+＊[Pages created by Tobias Kind, PhD](https://fiehnlab.ucdavis.edu/staff/kind/metabolomics)
 
 ## License
 

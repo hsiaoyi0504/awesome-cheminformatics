@@ -92,6 +92,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Molecular Descriptors
 
 * [mordred](https://github.com/mordred-descriptor/mordred) - Molecular descriptor calculator based on [RDKit](http://www.rdkit.org/).
+* [DescriptaStorus](https://github.com/bp-kelley/descriptastorus) - Descriptor computation(chemistry) and (optional) storage for machine learning.
 * [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 * [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
 * [Rcpi](https://nanx.me/Rcpi/index.html) - R/Bioconductor package to generate various descriptors of proteins, compounds and their interactions.

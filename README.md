@@ -15,11 +15,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * [General Purpose](#lib-general)
   * [Visualization](#lib-visualization)
   * [Command Line Tools](#lib-format)
+  * [Docking](#lib-dock)
   * [Molecular Descriptors](#lib-des)
   * [Machine Learning](#lib-ml)
   * [Web APIs](#lib-web)
   * [Databases](#lib-db)
-  * [Molecular Dynamics](#lib-md)
   * [Others](#lib-others)
 * [Journals](#journals)
 * [Resources](#resources)
@@ -119,6 +119,10 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Databases
 
 * [razi](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
+
+<a id="lib-dock"></a>
+### Docking
+* [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
 
 <a id="lib-md"></a>
 ### Molecular Dynamics

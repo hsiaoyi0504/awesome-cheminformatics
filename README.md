@@ -9,6 +9,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Applications](#applications)
   * [Visualization](#app-visualization)
   * [Command Line Tools](#app-cmd)
+  * [Python Packages](#app-python)
   * [Docking](#app-docking)
   * [Virtual Machine](#app-virtual)
 * [Libraries](#libraries)
@@ -47,6 +48,12 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [MayaChemTools](http://www.mayachemtools.org/index.html) - Collection of Perl and Python scripts, modules, and classes that support day-to-day computational discovery needs.
 * [Packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) - Initial configurations for molecular dynamics simulations by packing optimization.
 * [BCL::Commons](http://meilerlab.org/index.php/bclcommons/show/b_apps_id/1)
+
+<a id="app-python"></a>
+### Python Packages
+* [GlobalChem](https://github.com/Sulstice/global-chem) - A content variable store for SMILES, SMARTS strings for functional groups.
+* [CocktailShaker](https://github.com/Sulstice/cocktail-shaker) - A combinatorial peptide library SMILES string generator and enumerator.
+* [MolPDF](https://github.com/Sulstice/molpdf) - A PDF Document Generator for chemical libraries. Turns a list of SMILES into a PDF doc. 
 
 <a id="app-docking"></a>
 ### Docking

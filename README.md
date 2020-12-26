@@ -154,7 +154,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Learncheminformatics.com](http://learncheminformatics.com/) - "Cheminformatics: Navigating the world of chemical data" courese at Indiana University.
 * [Python for chemoinformatics](https://github.com/Mishima-syk/py4chemoinformatics)
 * [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - A teaching platform for computer-aided drug design (CADD) using open source packages and data.
-* [ChemInformatics course of University of Arkansas at Little Rock](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)%3A_Chem_4399%2F%2F5399) - ChemInformatics course (Spring 2017) of University of Arkansas at Little Rock by Robert Belford
+* [Cheminformatics OLCC](https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics_OLCC_(2019)) - Cheminformatics course of the Collaborative Intercollegiate Online Chemistry Course (OLCC) course of University of Arkansas at Little Rock by Robert Belford
 * [BigChem](http://bigchem.eu/alllectures) - All lectures of [BigChem](http://bigchem.eu/) (A Horizon 2020 MSC ITN EID project, which provides innovative education in large chemical data analysis.)
 * [Molecular modeling course](https://dasher.wustl.edu/chem478/) - by Dr. [Jay Ponder](https://dasher.wustl.edu/), a professor from WashU St.Louis.
 * [Simulation in Chemistry and Biochemistry](https://dasher.wustl.edu/chem430/) - by Dr. [Jay Ponder](https://dasher.wustl.edu/), a professor from WashU St.Louis.

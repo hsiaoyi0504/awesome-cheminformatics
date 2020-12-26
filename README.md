@@ -75,7 +75,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-format"></a>
 ### Format Checking
 
-* [standardiser](https://wwwdev.ebi.ac.uk/chembl/extra/francis/standardiser/) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
+* [ChEMBL_Structure_Pipeline (formerly standardiser)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 * [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
 * [rd_filters](https://github.com/PatWalters/rd_filters) - A script to run structural alerts using the RDKit and ChEMBL
 
@@ -137,7 +137,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Others
 
 * [eiR](https://github.com/girke-lab/eiR) - Accelerated similarity searching of small molecules
-* [OPSIN](https://bitbucket.org/dan2097/opsin/downloads/) - Open Parser for Systematic IUPAC nomenclature
+* [OPSIN](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
 
 ## Journals
@@ -169,7 +169,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * Some old blogs [1](https://rguha.wordpress.com/) [2](http://www.rguha.net/index.html).
 * [Noel O'Blog](http://baoilleach.blogspot.tw/) - Blog of [Noel O'Boyle](https://www.redbrick.dcu.ie/~noel/), who is a Senior Software Engineer at NextMove Software.
 * [chem-bla-ics](http://chem-bla-ics.blogspot.tw/) - Blog of [Egon Willighagen](http://egonw.github.io/), who is an assistant professor at Maastricht University.
+<!---
 * [Asad's Blog](https://chembioinfo.com/) - Bolg of Syed Asad Rahman, who is a research scientist in the [Thornton group](http://www.ebi.ac.uk/research/thornton) at EMBL-EBI.
+-->
 * [steeveslab-blog](http://asteeves.github.io/) - Some examples using [RDKit](http://www.rdkit.org/).
 * [Macs in Chemistry](http://www.macinchem.org/) - Provide a resource for chemists using Apple Macintosh computers.
 * [DrugDiscovery.NET](http://www.drugdiscovery.net/) - Blog of [Andreas Bender](http://www.andreasbender.de/), who is a Reader for Molecular Informatics at University of Cambridge.

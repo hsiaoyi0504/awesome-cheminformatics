@@ -88,7 +88,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
 * [nglviewer](http://nglviewer.org/nglview/latest/) - Interactive molecular graphics for Jupyter notebooks.
-* [RDKit.js](https://www.npmjs.com/package/@rdkit/rdkit) -Official JavaScript distribution of cheminformatics functionality from the RDKit - a C++ library for cheminformatics.
+* [RDKit.js](https://www.npmjs.com/package/@rdkit/rdkit) - Official JavaScript distribution of cheminformatics functionality from the RDKit - a C++ library for cheminformatics.
 
 <a id="lib-des"></a>
 ### Molecular Descriptors

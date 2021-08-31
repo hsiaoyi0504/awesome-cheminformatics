@@ -71,6 +71,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
 * [ChemPy](https://github.com/bjodah/chempy) - A Python package useful for chemistry (mainly physical/inorganic/analytical chemistry)
 * [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
+* [datamol](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
 
 <a id="lib-format"></a>
 ### Format Checking

@@ -183,6 +183,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Is life worth living?](https://iwatobipen.wordpress.com/) - Some examples for cheminformatics libraries.
 * [Cheminformatics 2.0](https://cheminf20.org/) - Blog of [Alex M. Clark](https://twitter.com/aclarkxyz), a research scientist at Collaborative Drug Discovery.
 * [Depth-First](https://depth-first.com/) - Blog of [Richard L. Apodaca](https://depth-first.com/about/), a chemist living in La Jolla, California.
+* [Cheminformania](https://www.cheminformania.com) - Blog of [Ph.D, Esben Jannik Bjerrum](https://www.cheminformania.com/about/esben-jannik-bjerrum/), who is a Principle Scientist and a Machine Learning and AI specialists at AstraZeneca.
 
 ### Books
 

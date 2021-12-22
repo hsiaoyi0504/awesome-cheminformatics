@@ -79,6 +79,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [ChEMBL_Structure_Pipeline (formerly standardiser)](https://github.com/chembl/ChEMBL_Structure_Pipeline) - Tool designed to provide a simple way of standardising molecules as a prelude to e.g. molecular modelling exercises.
 * [MolVS](https://github.com/mcs07/MolVS) - Molecule validation and standardization based on [RDKit](http://www.rdkit.org/).
 * [rd_filters](https://github.com/PatWalters/rd_filters) - A script to run structural alerts using the RDKit and ChEMBL
+* [pdb-tools](https://github.com/haddocking/pdb-tools) - A swiss army knife for manipulating and editing PDB files.
 
 <a id="lib-visualization"></a>
 ### Visualization

@@ -103,6 +103,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-ml"></a>
 ### Machine Learning
 
+* [ChemicalX](https://github.com/AstraZeneca/chemicalx) - A PyTorch based deep learning library for drug pair scoring.
 * [DeepChem](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
 * [ChemML](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
 * [OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
@@ -133,6 +134,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 <a id="lib-md"></a>
 ### Molecular Dynamics
 
+* [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) - Molecular dynamics with neural machine learning models.
 * [Gromacs](http://www.gromacs.org/) - Molecular dynamics package mainly designed for simulations of proteins, lipids and nucleic acids.
 * [OpenMM](http://openmm.org/) - High performance toolkit for molecular simulation including extensive language bindings for Python, C, C++, and even Fortran.
 * [NAMD](https://www.ks.uiuc.edu/Research/namd/) - a parallel molecular dynamics code designed for high-performance simulation of large biomolecular systems.

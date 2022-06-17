@@ -146,7 +146,9 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [eiR](https://github.com/girke-lab/eiR) - Accelerated similarity searching of small molecules
 * [OPSIN](https://github.com/dan2097/opsin) - Open Parser for Systematic IUPAC nomenclature
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
-
+* [Auto-QChem](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
+ 
+ 
 ## Journals
 
 * [Journal of Cheminformatics](https://jcheminf.biomedcentral.com/)

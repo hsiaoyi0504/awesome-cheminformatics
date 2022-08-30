@@ -106,6 +106,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [DeepChem](https://github.com/deepchem/deepchem) - Deep learning library for Chemistry based on Tensorflow
 * [ChemML](https://github.com/hachmannlab/chemml) - ChemML is a machine learning and informatics program suite for the analysis, mining, and modeling of chemical and materials data. (based on Tensorflow)
+* [olorenchemengine](https://github.com/Oloren-AI/olorenchemengine) - Molecular property prediction with unified API for diverse models and respresentations,
+  with integrated uncertainty quantification, interpretability, and hyperparameter/architecture tuning.
 * [OpenChem](https://github.com/Mariewelt/OpenChem) - OpenChem is a deep learning toolkit for Computational Chemistry with PyTorch backend.
 * [chainer-chemistry](https://github.com/pfnet-research/chainer-chemistry) - A Library for Deep Learning in Biology and Chemistry.
 * [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.

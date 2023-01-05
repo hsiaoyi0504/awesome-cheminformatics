@@ -142,6 +142,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [NAMD](https://www.ks.uiuc.edu/Research/namd/) - a parallel molecular dynamics code designed for high-performance simulation of large biomolecular systems.
 * [MDTraj](https://github.com/mdtraj/mdtraj) - Analysis of molecular dynamics trajectories.
 * [cclib](https://github.com/cclib/cclib) - Parsers and algorithms for computational chemistry logfiles.
+* [ProDy](https://github.com/prody/ProDy) - A Python package for protein dynamics analysis 
 
 <a id="lib-others"></a>
 ### Others

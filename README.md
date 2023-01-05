@@ -129,6 +129,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Databases
 
 * [razi](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
+* [Chemical Translation Service](https://bitbucket.org/fiehnlab/fiehnlab-cts/src/master/) - Source code of the [Chemical Translation Service](https://cts.fiehnlab.ucdavis.edu/) web service.
 
 <a id="lib-dock"></a>
 ### Docking
@@ -153,6 +154,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Auto-QChem](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
 * [Gypsum-DL](https://git.durrantlab.pitt.edu/jdurrant/gypsum_dl) - a program for converting 2D SMILES strings to 3D models.
 * [RDchiral](https://github.com/connorcoley/rdchiral) - Wrapper for RDKit's RunReactants to improve stereochemistry handling
+* [confgen](https://github.com/Et9797/confgen-webapp) - Webapp for generating conformers
  
  
 ## Journals

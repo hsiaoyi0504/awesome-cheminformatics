@@ -124,6 +124,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [CIRpy](http://cirpy.readthedocs.org/) - Python wrapper for the [NCI Chemical Identifier Resolver (CIR)](https://cactus.nci.nih.gov/chemical/structure).
 * [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
 * [chemminetools](https://github.com/girke-lab/chemminetools) - Open source web framework for small molecule analysis based on Django.
+* [ambit](http://ambit.sourceforge.net/) - offers chemoinformatics functionality via REST web services.
 
 <a id="lib-db"></a>
 ### Databases

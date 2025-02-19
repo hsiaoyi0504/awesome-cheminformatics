@@ -91,6 +91,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.
 * [nglviewer](http://nglviewer.org/nglview/latest/) - Interactive molecular graphics for Jupyter notebooks.
 * [RDKit.js](https://www.npmjs.com/package/@rdkit/rdkit) - Official JavaScript distribution of cheminformatics functionality from the RDKit - a C++ library for cheminformatics.
+* [asciiMol](https://github.com/dewberryants/asciiMol) - Simple in-terminal molecular visualiser written in Python. Integrates with RDKit and ASE. 
 
 <a id="lib-des"></a>
 ### Molecular Descriptors

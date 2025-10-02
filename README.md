@@ -100,7 +100,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [mol2vec](https://github.com/samoturk/mol2vec) - Vector representations of molecular substructures.
 * [Align-it](http://silicos-it.be.s3-website-eu-west-1.amazonaws.com/software/align-it/1.0.4/align-it.html#alignit-generating-pharmacophore-points) - Align molecules according their pharmacophores.
 * [Rcpi](https://nanx.me/Rcpi/index.html) - R/Bioconductor package to generate various descriptors of proteins, compounds and their interactions.
-
+* [scikit-fingerprints](https://scikit-fingerprints.readthedocs.io/latest/) - Provides 30+ fingerprinting methods in a scikit-learn compatible API (`.fit()`,`.transform()`) with SMILES strings as inputs.
 <a id="lib-ml"></a>
 ### Machine Learning
 

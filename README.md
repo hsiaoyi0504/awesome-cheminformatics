@@ -39,6 +39,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Chimera](https://www.cgl.ucsf.edu/chimera/) - Highly extensible program for interactive molecular visualization and analysis. [Source](https://www.cgl.ucsf.edu/chimera/docs/sourcecode.html) is available.
 * [ChimeraX](https://www.cgl.ucsf.edu/chimerax/) - The next-generation molecular visualization program, following UCSF Chimera. Source is available [here](https://www.cgl.ucsf.edu/chimerax/docs/devel/conventions.html).
 * [DataWarrior](http://www.openmolecules.org/datawarrior/index.html) - A program for data Visualization and analysis which combines dynamic graphical views and interactive row filtering with chemical intelligence.
+* [ChemIllusion](https://chemillusion.com) - AI figure tool that knows Chemistry and Biology. Create and visualize molecules and proteins by chat.
 
 <a id="app-cmd"></a>
 ### Command Line Tools

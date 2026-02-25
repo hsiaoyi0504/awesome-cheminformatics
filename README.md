@@ -156,6 +156,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Cookiecutter for Computational Molecular Sciences](https://github.com/MolSSI/cookiecutter-cms) - Python-centric Cookiecutter for Molecular Computational Chemistry Packages by [MolSSL](https://molssi.org/)
 * [Auto-QChem](https://github.com/PrincetonUniversity/auto-qchem) - an automated workflow for the generation and storage of DFT calculations for organic molecules.
 * [Gypsum-DL](https://git.durrantlab.pitt.edu/jdurrant/gypsum_dl) - a program for converting 2D SMILES strings to 3D models.
+* [MolBuilder](https://github.com/Taylor-C-Powell/Molecule_Builder) - Pure-Python molecular engineering toolkit covering SMILES parsing, retrosynthesis (91 templates), reaction condition prediction, reactor selection, safety assessment, cost
+  estimation, and scale-up analysis. No RDKit dependency.
 * [RDchiral](https://github.com/connorcoley/rdchiral) - Wrapper for RDKit's RunReactants to improve stereochemistry handling
 * [confgen](https://github.com/Et9797/confgen-webapp) - Webapp for generating conformers
  

@@ -115,6 +115,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.
 * [chemmodlab](https://github.com/jrash/ChemModLab) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
 * [Summit](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
+* [StereoAwareGNN](https://github.com/abinittio/StereoAwareGNN) - Stereo-aware graph neural network for blood-brain barrier permeability prediction with explicit 3D stereochemical encoding (0.96 external AUC).
+* [Insilico Drug Discovery Toolkit](https://github.com/abinittio/Insilico-Drug-Discovery-Toolkit) - Comprehensive ADMET prediction suite covering monoamine transporter profiling, hERG cardiotoxicity, CYP450 metabolism, and abuse liability scoring.
 
 <a id="lib-web"></a>
 ### Web APIs

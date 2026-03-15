@@ -117,6 +117,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Summit](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
 * [StereoAwareGNN](https://github.com/abinittio/StereoAwareGNN) - Stereo-aware graph neural network for blood-brain barrier permeability prediction with explicit 3D stereochemical encoding (0.96 external AUC).
 * [Insilico Drug Discovery Toolkit](https://github.com/abinittio/Insilico-Drug-Discovery-Toolkit) - Comprehensive ADMET prediction suite covering monoamine transporter profiling, hERG cardiotoxicity, CYP450 metabolism, and abuse liability scoring.
+* [DoseTrack](https://github.com/abinittio/dosetrack-v4) - Mechanistic PK/PD simulation for lisdexamfetamine with Michaelis-Menten kinetics and RK4 ODE solver, validated against 3 published datasets (9.1% Cmax MAPE).
 
 <a id="lib-web"></a>
 ### Web APIs

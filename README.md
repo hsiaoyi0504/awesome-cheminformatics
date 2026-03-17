@@ -132,6 +132,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [razi](https://github.com/rvianello/razi) - Cheminformatic extension for the SQLAlchemy database.
 * [Chemical Translation Service](https://bitbucket.org/fiehnlab/fiehnlab-cts/src/master/) - Source code of the [Chemical Translation Service](https://cts.fiehnlab.ucdavis.edu/) web service.
+* [USDA Phytochemical Database — Enriched v2.0 (sample)](https://github.com/wirthal1990-tech/USDA-Phytochemical-Database-JSON) - Freely available CC BY-NC 4.0 sample of an enriched USDA phytochemical database (JSON + Parquet) linking phytochemicals to plant species with PubMed, ClinicalTrials.gov, ChEMBL bioactivity, and USPTO patent annotations.
 
 <a id="lib-dock"></a>
 ### Docking

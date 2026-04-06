@@ -4,6 +4,7 @@
 
 A curated list of awesome Cheminformatics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](CONTRIBUTING.md) !
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for cheminformatics workflow orchestration, automated molecular data pipeline management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 * [Applications](#applications)

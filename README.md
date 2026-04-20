@@ -115,6 +115,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.
 * [chemmodlab](https://github.com/jrash/ChemModLab) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
 * [Summit](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
+* [PharmaCore](https://github.com/reacherwu/PharmaCore) - Apple Silicon-native AI drug discovery platform with de novo molecular generation and drug repurposing, using sparse protein/molecular language models for efficient local inference.
 
 <a id="lib-web"></a>
 ### Web APIs

@@ -73,6 +73,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [MolecularGraph.jl](https://github.com/mojaie/MolecularGraph.jl) - A graph-based molecule modeling and chemoinformatics analysis toolkit fully implemented in Julia
 * [datamol](https://github.com/datamol-org/datamol): - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit.
 * [CGRtools](https://github.com/cimm-kzn/CGRtools) - Toolkit for processing molecules, reactions and condensed graphs of reactions. Can be used for chemical standardization, MCS search, tautomers generation with backward compatibility to RDKit and NetworkX.
+* [chematic](https://github.com/kent-tokyo/chematic) - Pure Rust cheminformatics toolkit with WebAssembly support, including SMILES/SMARTS, SDF/MOL/PDB I/O, molecular descriptors, ECFP/MACCS fingerprints, 2D depiction, 3D coordinates, and substructure search without C/C++ dependencies.
 
 <a id="lib-format"></a>
 ### Format Checking

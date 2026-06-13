@@ -39,6 +39,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Chimera](https://www.cgl.ucsf.edu/chimera/) - Highly extensible program for interactive molecular visualization and analysis. [Source](https://www.cgl.ucsf.edu/chimera/docs/sourcecode.html) is available.
 * [ChimeraX](https://www.cgl.ucsf.edu/chimerax/) - The next-generation molecular visualization program, following UCSF Chimera. Source is available [here](https://www.cgl.ucsf.edu/chimerax/docs/devel/conventions.html).
 * [DataWarrior](http://www.openmolecules.org/datawarrior/index.html) - A program for data Visualization and analysis which combines dynamic graphical views and interactive row filtering with chemical intelligence.
+* [Burrete](https://github.com/SergeiNikolenko/Burrete) - macOS menu bar app and Quick Look extension for molecular previews with Mol* 3D, fast XYZ rendering, xyzrender SVG, and RDKit grids.
 
 <a id="app-cmd"></a>
 ### Command Line Tools
@@ -53,6 +54,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [AutoDock Vina](http://vina.scripps.edu/) - Molecular docking and virtual screening.
 * [smina](https://sourceforge.net/projects/smina/) - Customized [AutoDock Vina](http://vina.scripps.edu/) to better support scoring function development and high-performance energy minimization.
+* [HEDGEHOG](https://github.com/LigandPro/hedgehog) - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, reports, CLI, and TUI.
+* [Matcha](https://github.com/LigandPro/Matcha) - Multi-stage Riemannian flow matching pipeline for physically valid protein-ligand docking with GNINA scoring and PoseBusters filtering.
 
 <a id="app-virtual"></a>
 ### Virtual Machine
@@ -137,6 +140,8 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Docking
 * [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
 * [DOCKSTRING](https://github.com/dockstring/dockstring) - Automates and standardizes ligand preparation for AutoDock Vina.
+* [Bento](https://github.com/LigandPro/Bento) - UV-first benchmark for protein-ligand docking with reproducible annotation, pocket similarity, and HPC workflows.
+* [posecheck-fast](https://github.com/LigandPro/posecheck-fast) - High-throughput docking pose validation toolkit with symmetry-corrected RMSD and lightweight PoseBusters-style clash filters.
 
 <a id="lib-md"></a>
 ### Molecular Dynamics

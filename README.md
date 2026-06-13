@@ -53,6 +53,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [AutoDock Vina](http://vina.scripps.edu/) - Molecular docking and virtual screening.
 * [smina](https://sourceforge.net/projects/smina/) - Customized [AutoDock Vina](http://vina.scripps.edu/) to better support scoring function development and high-performance energy minimization.
+* [HEDGEHOG](https://github.com/LigandPro/hedgehog) - Stage-based evaluation pipeline for generative molecular design with filters, retrosynthesis checks, docking, pose validation, reports, CLI, and TUI.
 
 <a id="app-virtual"></a>
 ### Virtual Machine

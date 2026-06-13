@@ -137,6 +137,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Docking
 * [Rosetta](https://www.rosettacommons.org/docs/latest/Home) - A comprehensive software suite for modeling macromolecular structures. Used larely for protein-protein docking.
 * [DOCKSTRING](https://github.com/dockstring/dockstring) - Automates and standardizes ligand preparation for AutoDock Vina.
+* [Bento](https://github.com/LigandPro/Bento) - UV-first benchmark for protein-ligand docking with reproducible annotation, pocket similarity, and HPC workflows.
 
 <a id="lib-md"></a>
 ### Molecular Dynamics

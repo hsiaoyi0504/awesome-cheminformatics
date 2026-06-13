@@ -53,6 +53,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [AutoDock Vina](http://vina.scripps.edu/) - Molecular docking and virtual screening.
 * [smina](https://sourceforge.net/projects/smina/) - Customized [AutoDock Vina](http://vina.scripps.edu/) to better support scoring function development and high-performance energy minimization.
+* [Matcha](https://github.com/LigandPro/Matcha) - Multi-stage Riemannian flow matching pipeline for physically valid protein-ligand docking with GNINA scoring and PoseBusters filtering.
 
 <a id="app-virtual"></a>
 ### Virtual Machine

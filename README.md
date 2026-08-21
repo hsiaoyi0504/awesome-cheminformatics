@@ -115,6 +115,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [pytorch-geometric](https://pytorch-geometric.readthedocs.io/en/latest/) - A PyTorch library provides implementation of many graph convolution algorithms.
 * [chemmodlab](https://github.com/jrash/ChemModLab) - A Cheminformatics Modeling Laboratory for Fitting and Assessing Machine Learning Models in R.
 * [Summit](https://github.com/sustainable-processes/summit) - A python package for optimizing chemical reactions using machine learning (contains 10 algorithms + several benchmarks).
+* [synomega](https://github.com/zbc0315/synomega) - Retrosynthesis and reaction-prediction toolkit (D-MPNN template classifier + RDKit) with single-step retro/forward prediction, multi-step route planning, a continuous synthesizability score, and multi-component evolution.
 
 <a id="lib-web"></a>
 ### Web APIs

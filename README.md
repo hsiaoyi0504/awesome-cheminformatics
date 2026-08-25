@@ -8,6 +8,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 
 * [Applications](#applications)
   * [Visualization](#app-visualization)
+  * [Web Tools](#app-web)
   * [Command Line Tools](#app-cmd)
   * [Docking](#app-docking)
   * [Virtual Machine](#app-virtual)
@@ -40,6 +41,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [ChimeraX](https://www.cgl.ucsf.edu/chimerax/) - The next-generation molecular visualization program, following UCSF Chimera. Source is available [here](https://www.cgl.ucsf.edu/chimerax/docs/devel/conventions.html).
 * [DataWarrior](http://www.openmolecules.org/datawarrior/index.html) - A program for data Visualization and analysis which combines dynamic graphical views and interactive row filtering with chemical intelligence.
 
+<a id="app-web"></a>
+### Web Tools
+
+* [COSMolkit Tools Web](https://github.com/cosmol-studio/cosmolkit-tools-web) - Browser-based suite for molecular depiction, format conversion, 3D conformer generation, InChI conversion, molecular properties, and SMILES canonicalization, with molecular data processed locally in the browser. [Web application](https://tools.cosmol.org/).
+
 <a id="app-cmd"></a>
 ### Command Line Tools
 
@@ -66,6 +72,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### General Purpose
 
 * [RDKit](http://www.rdkit.org/) - Collection of cheminformatics and machine-learning software written in C++ and Python.
+* [COSMolKit](https://github.com/cosmol-studio/COSMolKit) - General-purpose cheminformatics and structural biology toolkit for molecular graph operations, SMILES/SDF/InChI handling, SMARTS matching, fingerprints, descriptors, 2D depiction, conformer generation, force-field optimization, and related molecular modeling utilities, with compatibility validated through source-aligned implementations and large-scale parity testing against reference toolkits. [Documentation](https://kit.cosmol.org/), [API reference](https://docs.rs/cosmolkit), [PyPI](https://pypi.org/project/cosmolkit/), and [Crates.io](https://crates.io/crates/cosmolkit).
 * [Indigo](https://github.com/epam/Indigo) - Universal molecular toolkit that can be used for molecular fingerprinting, substructure search, and molecular visualization written in C++ package, with Java, C#, and Python wrappers.
 * [CDK (Chemistry Development Kit)](https://sourceforge.net/projects/cdk/) - Algorithms for structural chemo- and bioinformatics, implemented in Java.
 * [ChemmineR](https://www.bioconductor.org/packages/release/bioc/vignettes/ChemmineR/inst/doc/ChemmineR.html) - Cheminformatics package for analyzing drug-like small molecule data in R.
@@ -86,6 +93,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Visualization
 
 * [Kekule.js](http://partridgejiang.github.io/Kekule.js/) - Front-end JavaScript library for providing the ability to represent, draw, edit, compare and search molecule structures on web browsers.
+* [COSMol-viewer](https://github.com/cosmol-studio/COSMol-viewer) - Cross-platform molecular and structural visualization library for native desktop applications, notebooks, browser applications, static rendering, and scientific animation. [Documentation](https://cosmol-studio.github.io/COSMol-viewer/), [PyPI](https://pypi.org/project/cosmol-viewer/), [Crates.io](https://crates.io/crates/cosmol_viewer), and [npm](https://www.npmjs.com/package/cosmol_viewer_wasm).
 * [3Dmol.js](https://github.com/3dmol/3Dmol.js) - An object-oriented, webGL based JavaScript library for online molecular visualization.
 * [JChemPaint](https://github.com/JChemPaint/jchempaint) - Chemical 2D structure editor application/applet based on the [Chemistry Development Kit](https://sourceforge.net/projects/cdk/).
 * [rdeditor](https://github.com/EBjerrum/rdeditor) - Simple RDKit molecule editor GUI using PySide.

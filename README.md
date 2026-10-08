@@ -10,7 +10,11 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
   * [Visualization](#app-visualization)
   * [Command Line Tools](#app-cmd)
   * [Docking](#app-docking)
+  * [Retrosynthesis](#retrosynthesis)
   * [Virtual Machine](#app-virtual)
+  * ### Retrosynthesis
+
+* [ChemicalTool Reaction](https://reaction.chemicaltool.com/) - Free online AI retrosynthesis tool that takes a SMILES string or a drawn structure and returns ranked synthesis routes with reaction types and mechanism notes.
 * [Libraries](#libraries)
   * [General Purpose](#lib-general)
   * [Visualization](#lib-visualization)

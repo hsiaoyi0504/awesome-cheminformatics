@@ -52,6 +52,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 ### Docking
 
 * [AutoDock Vina](http://vina.scripps.edu/) - Molecular docking and virtual screening.
+* [Liganx](https://liganx.com/) - Free, browser-based, mutation-aware molecular docking; docks a compound into wild-type and mutant structures and compares the binding-score difference.
 * [smina](https://sourceforge.net/projects/smina/) - Customized [AutoDock Vina](http://vina.scripps.edu/) to better support scoring function development and high-performance energy minimization.
 
 <a id="app-virtual"></a>

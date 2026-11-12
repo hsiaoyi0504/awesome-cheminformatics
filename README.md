@@ -126,6 +126,7 @@ A curated list of awesome Cheminformatics software, resources, and libraries. Mo
 * [Beaker](https://github.com/chembl/chembl_beaker) - [RDKit](http://www.rdkit.org/) and [OSRA](https://cactus.nci.nih.gov/osra/) in the [Bottle](http://bottlepy.org/docs/dev/) on [Tornado](http://www.tornadoweb.org/en/stable/).
 * [chemminetools](https://github.com/girke-lab/chemminetools) - Open source web framework for small molecule analysis based on Django.
 * [ambit](http://ambit.sourceforge.net/) - offers chemoinformatics functionality via REST web services.
+* [SeqChem API](https://seqandchem.com/api) - Free REST API for chemical format conversion, molecular descriptors, 2D depiction and 3D conformer generation. [OpenAPI spec](https://seqandchem.com/api/openapi.json)
 
 <a id="lib-db"></a>
 ### Databases
